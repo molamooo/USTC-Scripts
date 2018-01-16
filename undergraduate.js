@@ -24,6 +24,7 @@ var inter = setInterval(function() {
         }
     }
     if (total_people == current_people) {
+        console.log(total_people + "/" + current_people);
         button.click();;
         return;
     }
