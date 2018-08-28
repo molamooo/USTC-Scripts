@@ -1,5 +1,5 @@
-username = 'PB15000301'
-passowrd = '280473'
+username = '**********'
+passowrd = '******'
 save_dir = '/mnt/d/staff_pic/'
 
 import requests
